@@ -1,2 +1,2 @@
 # grid-multistability
-tracking stable synchronized in power grids with configuration-model topologies
+tracking stable synchronized states in power grids with configuration-model topologies
